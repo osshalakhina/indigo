@@ -1,6 +1,6 @@
 # Indigo
 
-Character for animation, made in Adobe photoshop.
+Character for animation, created in Adobe Photoshop.
 
 # Preview
 
